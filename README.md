@@ -13,7 +13,7 @@ Website quản lý dạy và học trực tuyến. Có tích hợp thanh toán o
 ## Cài đặt
 
 ```
-git clone https://github.com/tnkbang/DayHocTrucTuyen-Core.git
+https://github.com/Tson28/DayHocTrucTuyen-Core.git
 ```
 
 Lấy file script sql tại:
